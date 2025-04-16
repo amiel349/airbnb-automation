@@ -1,0 +1,268 @@
+2025-04-16 16:13:08 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 16:13:08 | INFO     | tests.test_reservation:test_reservation_flow:24 - Starting test_reservation_flow
+2025-04-16 16:13:08 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 16:13:10 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 16:13:10 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 16:13:13 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 16:13:13 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 16:13:15 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 16:13:46 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 16:13:51 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 16:13:51 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 16:13:51 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 16:13:53 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 0 children
+2025-04-16 16:13:53 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 16:13:55 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 16:13:56 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 16:13:57 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 16:14:28 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:25:13 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 21:25:13 | INFO     | tests.test_reservation:test_reservation_flow:32 - Starting test_reservation_flow
+2025-04-16 21:25:13 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:25:15 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 21:25:15 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:25:17 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:25:17 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:25:19 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:25:20 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:25:23 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:25:23 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:25:24 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:25:24 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-children-increase-button']
+2025-04-16 21:25:24 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:25:25 | INFO     | pages.base_page:wait_for_navigation:30 - Waiting for navigation to complete
+2025-04-16 21:25:56 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:26:00 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 21:26:00 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 21:26:00 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:26:03 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 0 children
+2025-04-16 21:26:03 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:26:05 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:26:05 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:26:08 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:26:09 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:26:12 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:26:12 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:26:13 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:26:13 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:26:14 | INFO     | pages.base_page:wait_for_navigation:30 - Waiting for navigation to complete
+2025-04-16 21:26:14 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:26:14 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:26:15 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:26:15 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:26:15 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 2 guests, Found Guests2 guests, Valid: True
+2025-04-16 21:26:15 | INFO     | utils.verifier:assert_true:73 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:26:15 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:26:15 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:26:16 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 3790, 'rating': 4.57}
+2025-04-16 21:26:16 | INFO     | utils.verifier:assert_true:73 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:26:16 | INFO     | tests.test_search:test_search_and_analyze_results:36 - Highest rated listing details: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 3790, 'rating': 4.57}
+2025-04-16 21:26:16 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:44 - Finding cheapest listing
+2025-04-16 21:26:16 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:26:21 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:47 - Cheapest listing: {'title': 'Condo in Tel Aviv-Yafo', 'price': 1130, 'rating': 5.0}
+2025-04-16 21:26:21 | INFO     | utils.verifier:assert_true:73 - ✅ Assertion PASSED: Cheapest listing found
+2025-04-16 21:26:21 | INFO     | tests.test_search:test_search_and_analyze_results:41 - Cheapest listing details: {'title': 'Condo in Tel Aviv-Yafo', 'price': 1130, 'rating': 5.0}
+2025-04-16 21:26:21 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:27:23 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 21:27:23 | INFO     | tests.test_reservation:test_reservation_flow:32 - Starting test_reservation_flow
+2025-04-16 21:27:23 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:27:25 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 21:27:25 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:27:27 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:27:27 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:27:29 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:27:30 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:27:33 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:27:33 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:27:33 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:27:34 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-children-increase-button']
+2025-04-16 21:27:34 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:27:35 | INFO     | pages.base_page:wait_for_navigation:30 - Waiting for navigation to complete
+2025-04-16 21:27:58 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:28:01 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 21:28:01 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 21:28:01 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:28:03 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:36:19 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 21:36:19 | INFO     | tests.test_reservation:test_reservation_flow:32 - Starting test_reservation_flow
+2025-04-16 21:36:19 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:36:21 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 21:36:21 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:36:23 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:36:23 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:36:25 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:36:26 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:36:29 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:36:29 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:36:29 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:36:30 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-children-increase-button']
+2025-04-16 21:36:30 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:36:31 | INFO     | pages.base_page:wait_for_navigation:30 - Waiting for navigation to complete
+2025-04-16 21:37:01 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:37:06 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 21:37:06 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 21:37:06 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:37:08 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 0 children
+2025-04-16 21:37:08 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:37:11 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:37:11 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:37:14 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:37:16 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:37:18 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:37:18 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:37:19 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:37:19 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:37:20 | INFO     | pages.base_page:wait_for_navigation:30 - Waiting for navigation to complete
+2025-04-16 21:37:20 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:37:20 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:37:22 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:37:22 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:37:22 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 2 guests, Found Guests2 guests, Valid: True
+2025-04-16 21:37:22 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:37:22 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:37:22 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:37:23 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1130, 'rating': 4.92}
+2025-04-16 21:37:23 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:37:23 | INFO     | tests.test_search:test_search_and_analyze_results:36 - Highest rated listing details: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1130, 'rating': 4.92}
+2025-04-16 21:37:23 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:44 - Finding cheapest listing
+2025-04-16 21:37:23 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:37:28 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:47 - Cheapest listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1130, 'rating': 4.92}
+2025-04-16 21:37:28 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Cheapest listing found
+2025-04-16 21:37:28 | INFO     | tests.test_search:test_search_and_analyze_results:41 - Cheapest listing details: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1130, 'rating': 4.92}
+2025-04-16 21:37:28 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:39:07 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 21:39:07 | INFO     | tests.test_reservation:test_reservation_flow:32 - Starting test_reservation_flow
+2025-04-16 21:39:07 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:39:09 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 21:39:09 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:39:11 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:39:11 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:39:13 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:39:14 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:39:17 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:39:17 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:39:17 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:39:18 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-children-increase-button']
+2025-04-16 21:39:18 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:39:21 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:39:21 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:39:23 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:39:23 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:39:24 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 3 guests, Found Guests3 guests, Valid: True
+2025-04-16 21:39:24 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:39:24 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:39:24 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:39:26 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 3101, 'rating': 5.0}
+2025-04-16 21:39:26 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:39:26 | INFO     | pages.search_results_page.search_results_page:click_on_listing:52 - Clicking on listing
+2025-04-16 21:39:32 | INFO     | pages.base_page:is_visible:53 - Element header[data-testid='translation-announce-modal'] is visible: True
+2025-04-16 21:39:32 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Close']
+2025-04-16 21:39:32 | INFO     | pages.listing_page.listing_page:get_reservation_card_details:33 - Getting reservation card details
+2025-04-16 21:39:32 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-section-id='BOOK_IT_SIDEBAR']
+2025-04-16 21:39:33 | INFO     | pages.listing_page.listing_page:get_reservation_card_details:36 - Reservation details: {'price': '₪3,101', 'dates': '5/16/2025 - 5/19/2025', 'guests': '3 guests'}
+2025-04-16 21:39:33 | INFO     | tests.test_reservation:test_reservation_flow:58 - Reservation details before attempting reservation: {'price': '₪3,101', 'dates': '5/16/2025 - 5/19/2025', 'guests': '3 guests'}
+2025-04-16 21:39:35 | INFO     | pages.base_page:is_visible:53 - Element header[data-testid='translation-announce-modal'] is visible: False
+2025-04-16 21:39:35 | INFO     | pages.listing_page.listing_page:attempt_reservation:42 - Attempting reservation
+2025-04-16 21:39:35 | INFO     | pages.base_page:click:42 - Clicking on element: //div[@data-section-id='BOOK_IT_SIDEBAR']//button[@data-testid='homes-pdp-cta-btn']
+2025-04-16 21:39:41 | INFO     | utils.verifier:verify_equals_with_delta:26 - ✅ Verification PASSED: Reservation price validation - Expected: 3101, Actual: 3100
+2025-04-16 21:39:41 | INFO     | utils.verifier:assert_equals:66 - ✅ Assertion PASSED: Reservation dates validation - Expected: 5/16/2025 - 5/19/2025, Actual: 5/16/2025 - 5/19/2025
+2025-04-16 21:39:41 | INFO     | utils.verifier:assert_equals:66 - ✅ Assertion PASSED: Reservation guests validation - Expected: 3 guests, Actual: 3 guests
+2025-04-16 21:39:41 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:39:48 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 21:39:48 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 21:39:48 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:39:50 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 0 children
+2025-04-16 21:39:50 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:39:52 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:39:53 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:39:55 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:39:55 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:39:58 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:39:59 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:39:59 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:39:59 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:40:02 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:40:02 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:40:03 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:40:03 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:40:04 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 2 guests, Found Guests2 guests, Valid: True
+2025-04-16 21:40:04 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:40:04 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:40:04 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:40:09 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1884, 'rating': 5.0}
+2025-04-16 21:40:09 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:40:09 | INFO     | tests.test_search:test_search_and_analyze_results:36 - Highest rated listing details: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1884, 'rating': 5.0}
+2025-04-16 21:40:09 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:44 - Finding cheapest listing
+2025-04-16 21:40:09 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:40:11 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:47 - Cheapest listing: {'title': 'Condo in Tel Aviv-Yafo', 'price': 765, 'rating': 5.0}
+2025-04-16 21:40:11 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Cheapest listing found
+2025-04-16 21:40:11 | INFO     | tests.test_search:test_search_and_analyze_results:41 - Cheapest listing details: {'title': 'Condo in Tel Aviv-Yafo', 'price': 765, 'rating': 5.0}
+2025-04-16 21:40:11 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:40:42 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\reservation_data.json
+2025-04-16 21:40:42 | INFO     | tests.test_reservation:test_reservation_flow:32 - Starting test_reservation_flow
+2025-04-16 21:40:42 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:40:44 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 1 children
+2025-04-16 21:40:44 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:40:46 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:40:46 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:40:48 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:40:49 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:40:52 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:40:52 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:40:52 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:40:53 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-children-increase-button']
+2025-04-16 21:40:53 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:40:56 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:40:56 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:40:57 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:40:57 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:40:58 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 3 guests, Found Guests3 guests, Valid: True
+2025-04-16 21:40:58 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:40:58 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:40:58 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:41:01 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 3101, 'rating': 5.0}
+2025-04-16 21:41:01 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:41:01 | INFO     | pages.search_results_page.search_results_page:click_on_listing:52 - Clicking on listing
+2025-04-16 21:41:07 | INFO     | pages.base_page:is_visible:53 - Element header[data-testid='translation-announce-modal'] is visible: True
+2025-04-16 21:41:07 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Close']
+2025-04-16 21:41:07 | INFO     | pages.listing_page.listing_page:get_reservation_card_details:33 - Getting reservation card details
+2025-04-16 21:41:07 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-section-id='BOOK_IT_SIDEBAR']
+2025-04-16 21:41:08 | INFO     | pages.listing_page.listing_page:get_reservation_card_details:36 - Reservation details: {'price': '₪3,101', 'dates': '5/16/2025 - 5/19/2025', 'guests': '3 guests'}
+2025-04-16 21:41:08 | INFO     | tests.test_reservation:test_reservation_flow:58 - Reservation details before attempting reservation: {'price': '₪3,101', 'dates': '5/16/2025 - 5/19/2025', 'guests': '3 guests'}
+2025-04-16 21:41:10 | INFO     | pages.base_page:is_visible:53 - Element header[data-testid='translation-announce-modal'] is visible: False
+2025-04-16 21:41:10 | INFO     | pages.listing_page.listing_page:attempt_reservation:42 - Attempting reservation
+2025-04-16 21:41:10 | INFO     | pages.base_page:click:42 - Clicking on element: //div[@data-section-id='BOOK_IT_SIDEBAR']//button[@data-testid='homes-pdp-cta-btn']
+2025-04-16 21:41:17 | INFO     | utils.verifier:verify_equals_with_delta:26 - ✅ Verification PASSED: Reservation price validation - Expected: 3101, Actual: 3100
+2025-04-16 21:41:17 | INFO     | utils.verifier:assert_equals:66 - ✅ Assertion PASSED: Reservation dates validation - Expected: 5/16/2025 - 5/19/2025, Actual: 5/16/2025 - 5/19/2025
+2025-04-16 21:41:17 | INFO     | utils.verifier:assert_equals:66 - ✅ Assertion PASSED: Reservation guests validation - Expected: 3 guests, Actual: 3 guests
+2025-04-16 21:41:17 | INFO     | tests.base_test:setup:27 - Test completed
+2025-04-16 21:41:25 | INFO     | tests.base_test:load_test_data:32 - Loading test data from C:\Users\amiel\PycharmProjects\airbnb-automation\tests\..\data\search_data.json
+2025-04-16 21:41:25 | INFO     | tests.test_search:test_search_and_analyze_results:22 - Starting test_search_and_analyze_results
+2025-04-16 21:41:25 | INFO     | pages.base_page:navigate:14 - Navigating to: https://www.airbnb.com/
+2025-04-16 21:41:27 | INFO     | pages.home_page.home_page:search_apartments:22 - Searching for apartments in Tel Aviv for 2 adults and 0 children
+2025-04-16 21:41:27 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-query']
+2025-04-16 21:41:30 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: input[data-testid='structured-search-input-field-query']
+2025-04-16 21:41:31 | INFO     | pages.base_page:fill:47 - Filling input[data-testid='structured-search-input-field-query'] with value: Tel Aviv
+2025-04-16 21:41:33 | INFO     | pages.base_page:click:42 - Clicking on element: div[data-testid='structured-search-input-field-dates-panel']
+2025-04-16 21:41:34 | INFO     | pages.base_page:click:42 - Clicking on element: button[aria-label='Move forward to switch to the next month.']
+2025-04-16 21:41:37 | INFO     | pages.base_page:click:42 - Clicking on element: [data-testid='structured-search-input-field-guests-button']
+2025-04-16 21:41:37 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:41:37 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='stepper-adults-increase-button']
+2025-04-16 21:41:38 | INFO     | pages.base_page:click:42 - Clicking on element: button[data-testid='structured-search-input-search-button']
+2025-04-16 21:41:41 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:16 - Validating search parameters
+2025-04-16 21:41:41 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-location']
+2025-04-16 21:41:42 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:21 - Location validation: Expected Tel Aviv, Found LocationTel Aviv, Valid: True
+2025-04-16 21:41:42 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: button[data-testid='little-search-guests']
+2025-04-16 21:41:43 | INFO     | pages.search_results_page.search_results_page:validate_search_parameters:30 - Guests validation: Expected 2 guests, Found Guests2 guests, Valid: True
+2025-04-16 21:41:43 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Search parameters validation
+2025-04-16 21:41:43 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:36 - Finding highest rated listing
+2025-04-16 21:41:43 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:41:48 | INFO     | pages.search_results_page.search_results_page:get_highest_rated_listing:39 - Highest rated listing: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1884, 'rating': 5.0}
+2025-04-16 21:41:48 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Highest rated listing found
+2025-04-16 21:41:48 | INFO     | tests.test_search:test_search_and_analyze_results:36 - Highest rated listing details: {'title': 'Apartment in Tel Aviv-Yafo', 'price': 1884, 'rating': 5.0}
+2025-04-16 21:41:48 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:44 - Finding cheapest listing
+2025-04-16 21:41:48 | INFO     | pages.base_page:wait_for_selector:25 - Waiting for selector: div[data-testid='card-container']
+2025-04-16 21:41:51 | INFO     | pages.search_results_page.search_results_page:get_cheapest_listing:47 - Cheapest listing: {'title': 'Condo in Tel Aviv-Yafo', 'price': 765, 'rating': 5.0}
+2025-04-16 21:41:51 | INFO     | utils.verifier:assert_true:84 - ✅ Assertion PASSED: Cheapest listing found
+2025-04-16 21:41:51 | INFO     | tests.test_search:test_search_and_analyze_results:41 - Cheapest listing details: {'title': 'Condo in Tel Aviv-Yafo', 'price': 765, 'rating': 5.0}
+2025-04-16 21:41:51 | INFO     | tests.base_test:setup:27 - Test completed
